@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @avilasebastianl
-- 👀 I’m interested in Data Analytics and Data Science, everything that involves Data Bases I'm into it.
-- 🌱 I’m currently learning Business informatics in Kazan, Russia. 
-- 💞️ I’m looking to collaborate on Data analysis, SQL server,Power BI,ETL, C#,
-- 📫 How to reach me ...
+- 👀 I’m interested everything that involves Databases.
+- 🌱 Graduate in Business informatics in Kazan, Russia. 
+- 💞️ I’m looking to collaborate on Data analysis, SQL, Power BI, Python, Linux Development and DBA business.
+<!--- 📫 How to reach me ... -->
 
 <!---
 avilasebastianl/avilasebastianl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
