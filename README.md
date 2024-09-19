@@ -2,7 +2,7 @@
 - 👀 I’m interested everything that involves Databases.
 - 🌱 Graduate in Business informatics in Kazan, Russia. 
 - 💞️ I’m looking to collaborate on Data analysis, SQL, Power BI, Python, Linux Development and DBA business.
-- ⚙️ Currently working as a Junior DBA in Bogota, Colombia.
+- ⚙️ Currently working as a DBA in Bogota, Colombia.
 <!--- 📫 How to reach me ... -->
 
 <!---
