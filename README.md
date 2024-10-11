@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @avilasebastianl
-- 👀 I’m interested everything that involves Databases.
+- 👀 I’m interested in everything that involves Databases.
 - 🌱 Graduate in Business informatics in Kazan, Russia. 
-- 💞️ I’m looking to collaborate on Data analysis, SQL, Power BI, Python, Linux Development and DBA business.
+- 💞️ I’m looking to collaborate on Data analysis, SQL, Power BI, Python, Linux Development and all as a DBA role.
 - ⚙️ Currently working as a DBA in Bogota, Colombia.
+- ✨ Big fan of drones and rap
 <!--- 📫 How to reach me ... -->
 
 <!---
