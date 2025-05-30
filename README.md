@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data analysis, SQL, Power BI, Python, Linux Development and all as a DBA role.
 - ⚙️ Currently working as a DBA in Bogota, Colombia.
 - ✨ Big fan of drones and rap.
-📫 How to reach me: avilasebastianl@hotmail.com
+- 📫 How to reach me: avilasebastianl@hotmail.com
 
 Tech Stack:rocket::
 
